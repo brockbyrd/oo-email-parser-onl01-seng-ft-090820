@@ -5,8 +5,12 @@
 
 class EmailAddressParser
 
+  def initialize(string)
+    
+  end
+
   def parse(string)
-    string.to_i
+    
   end
 
 
