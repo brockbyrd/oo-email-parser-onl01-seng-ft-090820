@@ -5,8 +5,6 @@
 
 class EmailAddressParser
 
-  email_addresses = []
-
   def parse(string)
     string.split
   end
